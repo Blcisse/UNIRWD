@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🌐Tech Stack
 - **Frontend:** Next.js 14 (App Router) + React 18 + TailwindCSS 
 - **Payments:** Square Web Payments SDK
 - **API / Backend:** NestJS or Next Route Handlers (planned)⭐️
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧩 System Features
+## 🌐 System Features
 - Online Ordering System (Pickup & Delivery)
 - Rewards & Loyalty Integration
 - Membership / Subscription Management
